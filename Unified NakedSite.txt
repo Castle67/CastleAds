@@ -116,8 +116,8 @@ amarktflow.com
 device-metrics-us.amazon.com
 device-metrics-us-2.amazon.com
 windowsphishingalert158.s3.amazonaws.com
-amazonco.uk
-amazonco.uk
+amazonco.ph
+amazonco.com
 amorluv.com
 analytics-digit-in.cdn.ampproject.org
 analytics-digit-in.cdn.ampproject.org
@@ -185,7 +185,6 @@ auth-google.site
 analytics.ff.avast.com
 api.c.avazunativeads.com
 aws-update.net
-adv.axiatraders.com
 adv.axiatraders.com
 api.axiatraders.com
 api.axiatraders.com
