@@ -22,12 +22,13 @@ files.adform.net
 fwmrm.net
 googleadapis.l.google.com
 #googleads.g.doubleclick.net  #when blocking this, long blackscreen before video starts, but nor sure it's in two other lists I use without issues
-#googleads4.g.doubleclick.net
+googleads4.g.doubleclick.net
 googleadservices.com
 #i1.ytimg.com
 innovid.com
 #manifest.googlevideo.com  #video won´t play
 ocsp.comodoca.com
+ade.googlesyndication.com
 pagead.googlesyndication.com
 pagead.l.doubleclick.net
 pagead1.googlesyndication.com
