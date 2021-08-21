@@ -13913,12 +13913,12 @@ prt.stsdk.vivo.com.cn
 vcardsdkservice.vivo.com.cn
 
 # [vivoglobal.com]
-asia-monitor-stsdk.vivoglobal.com
-asia-onrt-stsdk.vivoglobal.com
-asia-ort-stsdk.vivoglobal.com
-asia-pnrt-stsdk.vivoglobal.com
-asia-prt-stsdk.vivoglobal.com
-asia-stsdk.vivoglobal.com
+#asia-monitor-stsdk.vivoglobal.com
+#asia-onrt-stsdk.vivoglobal.com
+#asia-ort-stsdk.vivoglobal.com
+#asia-pnrt-stsdk.vivoglobal.com
+#asia-prt-stsdk.vivoglobal.com
+#asia-stsdk.vivoglobal.com
 onrt-stsdk.vivoglobal.com
 ort-stsdk.vivoglobal.com
 prt-stsdk.vivoglobal.com
