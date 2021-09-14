@@ -1,0 +1,447 @@
+a.et.nytimes.com
+a.exdynsrv.com
+a.omappapi.com
+a.opmnstr.com
+a.pub.network
+abcnews.hb.omtrdc.net
+abcnews.tt.omtrdc.net
+acdn.adnxs.com
+adbserver.doceree.com
+adpushup.com
+ads-api.twitter.com
+ads.holid.io
+amazonwebservices.d2.sc.omtrdc.net
+analyti.uber.space
+analytics.getsocialeyes.com
+analytics.vadian.net
+analytics.write.as
+api-2-0.spot.im
+api-js.mixpanel.com
+api.airbrake.io
+api.b2c.com
+api.boxever.com
+api.btloader.com
+api2.branch.io
+ascendeum-d.openx.net
+backfills.ph.affinity.com
+bid.glass
+btloader.com
+by2.uservoice.com
+cdn-magiclinks.trackonomics.net
+cdn.engine.spotscenered.info
+cdn.insurads.com
+cdn.intergient.com
+cdn.izooto.com
+cdn.playwire.com
+cdn.snigelweb.com
+cdn.usefathom.com
+client.px-cloud.net
+dotmetrics.net
+ev.kck.st
+ezodn.com
+fast.appcues.com
+gc.zgo.at
+geo-eu.snigelweb.com
+geo-us.snigelweb.com
+go.ezodn.com
+ip.prvtx.net
+metrics.readme.io
+piwik.opendesktop.org
+pixel-static.spotify.com
+pixel.ampry.com
+pixel.spotify.com
+plus.addkt.com
+powerad.ai
+prebid-server-production.herokuapp.com
+privatestats.whatsapp.net
+programmatic.doceree.com
+protected-by.clarium.io
+scripts.simpleanalyticscdn.com
+scripttags.justuno.com
+secure-sts-prod.imrworldwide.com
+server.ethicalads.io
+shynet.rmrm.io
+smetrics.cnn.com
+smetrics.elsevier.com
+snigelweb-com.videoplayerhub.com
+snigelweb.com
+static.addtoany.com
+static.cloudflareinsights.com
+stats.framasoft.org
+stats.kde.org
+stats.libretexts.org
+stats.nextcloud.com
+t.stripe.com
+tag.rmp.rakuten.com
+trackjs.com
+trapsaminohut.com
+trk.justanswer.com
+trk.justanswer.com
+u.o0bc.com
+uk-script.dotmetrics.net
+uk-script.dotmetrics.net
+us-east-1.prod.pw.analytics.console.aws.a2z.com
+userreport.com
+vitals.vercel-insights.com
+vms.boldchat.com
+vt.myvisualiq.net
+web.vortex.data.microsoft.com
+web.vortex.data.msn.com
+www.datadoghq-browser-agent.com
+www.fastly-insights.com
+www.increaserev.com
+www.medtargetsystem.com
+www.npttech.com
+www.stack-sonar.com
+
+#
+# From https://github.com/prebid/Prebid.js
+#
+
+bidder.7xbid.com
+bidder.ablida.net
+mp.4dex.io
+stat.adfinity.pro
+api-test.scaleout.jp
+try.engine.adglare.net
+api.publishers.adlive.io
+pub.admanmedia.com
+ads4.admatic.com.tr
+prebid.admedia.com
+delivery.adnuntius.com
+rtb.adpone.com
+eu-ads.adpone.com
+delta.adprime.com
+ssp.adrelevantis.com
+rtb.com.ru
+ghb.console.adtarget.com.tr
+ghb.adtelligent.com
+ghb.ads.152media.com
+ghb.hbmp.mediafuse.com
+nep.advangelists.com
+ssp.advenuemedia.co.uk
+api.advertly.com
+analytics.wmgroup.us
+rtb.adwmg.com
+hbarxs.adxcg.net
+hbps.adxcg.net
+adxpremium.services
+hb-api.omnitagjs.com
+hb-api-fra01.omnitagjs.com
+ad.as.amanad.adtdp.com
+prebid.a-mo.net
+1x1.a-mo.net
+useast.quantumdex.io
+sync.quantumdex.io
+ad-jp.apx.appier.net
+mock-bapi.userreport.com
+bapi.userreport.com
+ssp.astraone.io
+d.audiencerun.com
+rtb2.automatad.com
+ads.avct.cloud
+bid.glass
+service.bidlab.ai
+exchange.bidphysics.com
+us-e-node1.bizzclick.com
+dev.pbs.bluebillywig.com
+pbs.bluebillywig.com
+ssp.videowalldirect.com
+cs.videowalldirect.com
+prebid.scupio.com
+brightcombid.marphezis.com
+console.brightmountainmedia.com
+px.britepool.com
+prebid.bksn.se
+exchange.buzzoola.com
+tube.buzzoola.com
+prebid.byplay.net
+h.cedatoplayer.com
+bidder.cleanmediaads.com
+ad.holmesmind.com
+appspb.cointraffic.io
+request.czilladx.com
+publishers.motionspots.com
+colossusssp.com
+tech.convergd.com
+bid.cosmoshq.com
+sync.cosmoshq.com
+dev.server.cpmstar.com
+staging.server.cpmstar.com
+gacraft.jp
+pbs.dailyhunt.in
+qa-pbs-van.dailyhunt.in
+prebid.datablocks.net
+supply.decenterads.com
+dmx.districtm.io
+cdn.districtm.io
+ad.divreach.com
+demo.reviveadservermod.com
+buyer.dspx.tv
+dcbuyer.dspx.tv
+service.e-volution.ai
+dsp.bnmla.com
+deep.edgequery.io
+prebid.emoteev.io
+prebid-staging.emoteev.io
+ad.nvivo.tv
+i.e-planning.net
+sk.search.etargetnet.com
+cz.search.etargetnet.com
+hu.search.etargetnet.com
+ro.search.etargetnet.com
+rs.search.etargetnet.com
+bg.search.etargetnet.com
+pl.search.etargetnet.com
+hr.search.etargetnet.com
+at.search.etargetnet.com
+co.search.etargetnet.com
+de.search.etargetnet.com
+en.search.etargetnet.com
+fid.agkn.com
+api.feedad.com
+content.mql5.com
+hb.adingo.jp
+rtb.gamoshi.io
+s.gamoshi.io
+wrappers.geoedge.be
+central.gjirafa.com
+api.glimpseprotocol.io
+grid.bidswitch.net
+bidder.h12-media.com
+seg.halo.ad.gt
+balancer.haxmedia.io
+banner.hpmdnetwork.ru
+hbe198.hybrid.ai
+ice.360yield.com
+px.owneriq.net
+bid.videostep.com
+k.r66net.com
+api.pymx5.com
+hb.yellowblue.io
+htlb.casalemedia.com
+hbtra.jixie.io
+scripts.jixie.io
+hb.jixie.io
+s.komoona.com
+tracker.konduit.me
+p.konduit.me
+ads4.krushmedia.com
+cs.krushmedia.com
+kssp.kbntx.ch
+kdmp.kbntx.ch
+ads.lemmatechnologies.com
+sync.lemmatechnologies.com
+lwadm.com
+pb.ladsp.com
+id.crwdcntrl.net
+nep.advangelists.com
+player-cdn.beachfrontmedia.com
+balancer.lmgssp.com
+rtb.adxpremium.services
+analytics.adxpremium.services
+central.mall.tv
+prebid_stats.mars.media
+hb.go2speed.media
+ping-hqx-1.go2speed.media
+rtb-filter.meazy.co
+sync.meazy.co
+rtb-us.mediago.io
+pb-logs.media.net
+pbs-front.mediasquare.fr
+bidder-test.mediasquare.fr
+mid.rkdms.com
+rtbtest.send.microad.jp
+bes.mobfox.com
+prebid.mobsmart.net
+tags.mobsmart.net
+nafdigitalbidder.com
+ad.audiencemanager.de
+adn.admixer.co.kr
+brainlyads.com
+qa-ads.nobid.com
+onetag-sys.com
+
+# www.qatarairways.com
+smetrics.qatarairways.com
+qatarairways.tt.omtrdc.net
+api.boxever.com
+
+# openstax.org
+js.pulseinsights.com
+
+# www.osano.com
+snap.licdn.com
+
+# www.quizexpo.com
+demand.supply
+live.demand.supply
+
+# america.aljazeera.com
+cdn.gigya.com
+
+# www.cplusplus.com
+cloud.setupad.com
+node.setupad.com
+prebid-stag.setupad.net
+
+# www.jstor.org
+ja.jstor.org
+
+# brilliant.org
+in.brilliant.org
+
+# artixlinux.org
+stats.artixlinux.org
+
+# ywc.thehindu.com
+csm.cxpublic.com
+tai.thehindu.com
+dm.thehindu.com
+go.automatad.com
+b2cdn.automatad.com
+cdn.automatad.com
+
+# www.gourmetads.com
+bcdn.grmtas.com
+
+# www.msn.com
+mssl.fwmrm.net
+visitor.omnitagjs.com
+
+# www.digitalmarketer.com
+snippet.upviral.com
+app.upviral.com
+
+# go.pendo.io
+js.driftt.com
+api.drift.com
+account.api.drift.com
+pages.api.driftqa.com
+conversation2.api.driftqa.com
+customer2.api.driftqa.com
+file2.api.driftqa.com
+ws.api.driftqa.com
+drift.click
+
+# jsfiddle.net
+crbcdn.jsfiddle.net
+crbsrv.jsfiddle.net
+
+# htwins.net
+queue.simpleanalyticscdn.com
+
+# linkedin.github.io
+tracking.eskratch.com
+
+# gizmodo.com
+sourcepoint.gizmodo.com
+
+# awesomewm.org
+piwik.awesomewm.org
+
+# www.aljazeera.com
+tags.aljazeera.com
+cdn.omnivirt.com
+
+# 65521.org
+stats.0www.org
+
+# dotcs.me
+analytics.home.dotcs.me
+
+# speedtest.net.uk
+stats.custserv.net
+
+# www.openstreetmap.org
+piwik.openstreetmap.org
+
+# www.babbel.com
+marketing-tracker.babbel.com
+
+# www.aparnaconstructions.com
+hspx.hotstar.com
+
+# prepaid.t-mobile.com
+lptag.liveperson.net
+
+# www.redbubble.com
+analytics-cdn.redbubble.com
+
+# geeknet.me
+stats.harbauer.org
+
+# amiunique.org
+analytics.amiunique.org
+
+# blockchair.com
+stats.blockchair.com
+
+# greenhost.net
+livestats.greenhost.nl
+
+# maproulette.org
+analytics.maproulette.org
+
+# alexei.pesic.dev
+cdn.panelbear.com
+
+# thisstartupdoesnotexist.com
+reports.teamemo-solutions.de
+
+# unsplash.com
+collector.unsplash.com
+
+# musescore.com
+track.musescore.com
+
+# ecmelberk.com
+ads.ebc.li
+
+# kevq.uk
+stats.kevq.uk
+
+# linuxjournal.com
+analytics.linuxjournal.com
+
+# www.fsf.org
+piwik.fsf.org
+
+# www.notion.so
+analytics.pgncs.notion.so
+
+# netsyms.com
+analytics.netsyms.net
+
+# remix.ethereum.org
+matomo.ethereum.org
+
+# bazaarvoice.com
+analytics-static.ugc.bazaarvoice.com
+bv-analytics-js-prod.s3.amazonaws.com
+bv-analytics-js-qa.s3.amazonaws.com
+
+# deepl.com
+s.deepl.com
+
+# dot.gov.in
+analytics.wrc.nic.in
+
+# qz.com
+player.mediafuse.com
+hb.mediafuse.com
+
+# www.dqindia.com
+qt.cyberads.io
+
+# duckduckgo.com
+improving.duckduckgo.com
+
+# killedbygoogle.com
+analytics.bale.media
+
+# tchncs.de
+stats.tchncs.de
+
+# usborne.com
+tracking.recommend.pro
