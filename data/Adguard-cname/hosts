@@ -10471,7 +10471,7 @@ a.ns.ecmsvision.net.daraz.com
 a.ns.emailvision.acc.net.daraz.com
 a.ns.emailvision.net.daraz.com
 a.ns.gistemailvision.net.daraz.com
-a.ns.github.emailvision.net.daraz.com
+#a.ns.github.emailvision.net.daraz.com
 a.ns.int.emailvision.net.daraz.com
 a.ns.metric.emailvision.net.daraz.com
 a.ns.pageemailvision.net.daraz.com
@@ -10641,7 +10641,7 @@ b.ns.cloudfrontemailvision.net.daraz.com
 b.ns.control.emailvision.net.daraz.com
 b.ns.ecloudfrontvision.net.daraz.com
 b.ns.edocumentsvision.net.daraz.com
-b.ns.egithubvision.net.daraz.com
+#b.ns.egithubvision.net.daraz.com
 b.ns.elasticbeanstalkemailvision.net.daraz.com
 b.ns.emailvision.1.net.daraz.com
 b.ns.emailvision.cdn.net.daraz.com
@@ -11408,7 +11408,7 @@ partner-container.net.daraz.com
 partner-data.net.daraz.com
 partner-dmetric.net.daraz.com
 partner-engima.net.daraz.com
-partner-github.net.daraz.com
+#partner-github.net.daraz.com
 partner-hkg.net.daraz.com
 partner-kor.net.daraz.com
 partner-legacy.net.daraz.com
