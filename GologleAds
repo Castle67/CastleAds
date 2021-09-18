@@ -36,11 +36,11 @@ dts.innovid.com
 files.adform.net
 fwmrm.net
 googleadapis.l.google.com
-#googleads.g.doubleclick.net  #when blocking this, long blackscreen before video starts, but nor sure it's in two other lists I use without issues
+#googleads.g.doubleclick.net  #when blocking this, long blackscreen before yt video starts, but nor sure it's in two other lists I use without issues
 googleads4.g.doubleclick.net
 #i1.ytimg.com
 innovid.com
-#manifest.googlevideo.com  #video won´t play
+#manifest.googlevideo.com  #yt video won´t play
 ocsp.comodoca.com
 pagead.googlesyndication.com
 pagead.l.doubleclick.net
