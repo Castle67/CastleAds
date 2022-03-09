@@ -2,6 +2,8 @@
 # --------------------------------------------
 #  A D S  S T A R T
 # --------------------------------------------
+tcp.googlesyndication.com
+yt3.ggpht.com
 go.etoro.com
 auction.unityads.unity3d.com
 adservice.google.com
@@ -38,7 +40,7 @@ dts.innovid.com
 files.adform.net
 fwmrm.net
 googleadapis.l.google.com
-#googleads.g.doubleclick.net  #when blocking this, long blackscreen before yt video starts, but nor sure it's in two other lists I use without issues
+googleads.g.doubleclick.net  #when blocking this, long blackscreen before yt video starts, but nor sure it's in two other lists I use without issues
 googleads4.g.doubleclick.net
 #i1.ytimg.com
 innovid.com
