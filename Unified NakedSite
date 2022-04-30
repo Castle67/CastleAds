@@ -42334,8 +42334,8 @@ free.mymapsexpress.com
 freefollower.eu
 freegiftcode.com
 freehackpl.com
-freeminecraft.cc
-freeminecraftgiftcode.net
+#freeminecraft.cc
+#freeminecraftgiftcode.net
 freenetflix.wex.pl
 frembud.pl
 freshiuz.com
@@ -50643,8 +50643,8 @@ frapko.xyz
 freefollower.eu
 freegiftcode.com
 freehackpl.com
-freeminecraftgiftcode.net
-freeminecraft.cc
+#freeminecraftgiftcode.net
+#freeminecraft.cc
 freenetflix.wex.pl
 free.mymapsexpress.com
 frembud.pl
@@ -73681,7 +73681,7 @@ link.sg.booking.com
 # These entries block web tracking and telemetry
 
 # 2020-05-21 Minecraft telemetry
-minecraftprod.rtep.msgamestudios.com
+#minecraftprod.rtep.msgamestudios.com
 
 # 2021-04-06 tweakers.net telemetry
 #  - https://fbc.wcfbc.net/v1/fbc
